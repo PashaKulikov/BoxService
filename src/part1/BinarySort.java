@@ -35,6 +35,9 @@ public class BinarySort {
     public void gu(){
 
     }
+    public void bewFunction(){
+
+    }
 
 
 }
