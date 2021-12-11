@@ -32,5 +32,9 @@ public class BinarySort {
         System.out.println(a);
 
     }
+    public void gu(){
+
+    }
+
 
 }
